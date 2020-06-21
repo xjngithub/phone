@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c13e2"],{"44e1":function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("van-button",{attrs:{type:"default"},on:{click:function(e){return t.$router.go(-1)}}},[t._v("返回")]),t._v(" 搜索组件 ")],1)},r=[],o={created:function(){this.$store.state.vanTabbar=!1},destroyed:function(){this.$store.state.vanTabbar=!0}},c=o,s=n("4023"),u=Object(s["a"])(c,a,r,!1,null,"9de34864",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0c13e2.41da9138.js.map
